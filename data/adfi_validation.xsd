@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:simpleType name="Bulstat">
+    <xs:restriction base="xs:string"><xs:pattern value="([0-9]{9})?"/></xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="InspectorateCode">
+    <xs:restriction base="xs:string"><xs:pattern value="ДИД[0-9]+-[А-Я]{2}"/></xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Outcome">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="violation_with_act"/><xs:enumeration value="violation_without_act"/>
+      <xs:enumeration value="no_violation"/><xs:enumeration value="not_classified"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Role">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="director"/><xs:enumeration value="chief_accountant"/>
+      <xs:enumeration value="mayor"/><xs:enumeration value="none"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="Context">
+    <xs:restriction base="xs:string"><xs:enumeration value="violation"/><xs:enumeration value="mentioned"/></xs:restriction>
+  </xs:simpleType>
+  <xs:element name="adfi_reports">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="report" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="report_file" type="xs:string"/>
+              <xs:element name="school_eik" type="Bulstat"/>
+              <xs:element name="school_name" type="xs:string"/>
+              <xs:element name="did_code" type="InspectorateCode"/>
+              <xs:element name="legal_articles" type="xs:string"/>
+              <xs:element name="outcome" type="Outcome"/>
+              <xs:element name="most_mentioned_role" type="Role"/>
+              <xs:element name="stem_flag" type="xs:boolean"/>
+              <xs:element name="firms">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="firm" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="name" type="xs:string"/>
+                          <xs:element name="eik" type="Bulstat"/>
+                          <xs:element name="context" type="Context"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
