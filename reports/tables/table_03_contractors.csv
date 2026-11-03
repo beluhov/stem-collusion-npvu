@@ -1,0 +1,31 @@
+contractor_or_consultant,eik,functional_role,rank_in_role,contracted_eur_incl_vat,disbursed_eur_incl_vat,won_schools_count,affected_share_pct,tier_1_share_pct,predated_contracts_count_sum,split_contracts_count_sum,declared_subcontractors,network_profile,adfi_status,adfi_violation_match,adfi_inspected_without_violation,adfi_clients_inspected_not_cited,adfi_clients_inspected_no_firm_named,adfi_clients_not_inspected
+Violina 2013 EOOD,202831878,V_tech,1,132023.49,133328.21,4,100.0,100.0,4,0,0,outside the validated groups,not cited although a client school was inspected,0,0,2,0,2
+Hiron 2000 OOD,103285744,V_tech,2,126989.7,87844.56,5,71.04,71.04,0,6,0,outside the validated groups,no client school inspected with a firm named,0,0,0,0,5
+Medikom OOD,117606174,V_tech,3,78259.65,113280.96,3,70.41,70.41,2,0,0,outside the validated groups,no client school inspected with a firm named,0,0,0,0,3
+Enerdzhi Sped EOOD,201463957,V_tech,4,403458.87,408533.92,21,100.0,61.02,11,2,0,"member of group G09 (Ordinary, in the core)",not cited although a client school was inspected,0,0,8,0,13
+Fininfo.Bg EOOD,206522893,V_tech,5,5771.17,6692.45,5,59.24,59.24,3,0,0,outside the validated groups,no client school inspected with a firm named,0,0,0,0,5
+Tideks EOOD,831752845,V_tech,6,101273.16,102117.11,3,54.53,54.53,2,0,0,outside the validated groups,not cited although a client school was inspected,0,0,1,0,2
+Balkantel OOD,831168299,V_tech,7,386818.36,372585.22,4,51.73,51.73,0,12,0,outside the validated groups,not cited although a client school was inspected,0,0,1,0,3
+Arbild Grup EOOD,207019028,V_tech,8,190932.78,139290.05,5,45.24,45.24,3,0,0,outside the validated groups,not cited although a client school was inspected,0,0,2,0,3
+Pauar-Dizayn OOD,175319447,V_tech,9,2726.78,2212.63,5,100.0,44.63,3,0,0,member of group G04 (Suspicious),not cited although a client school was inspected,0,0,1,0,4
+Enerdzhi Saport 2011 EOOD,201635241,V_tech,10,146106.44,147472.66,6,38.03,38.03,2,0,0,outside the validated groups,not cited although a client school was inspected,0,0,2,0,4
+Es Stroy Grup OOD,206938849,V_civil,1,166177.77,159094.73,6,100.0,100.0,6,0,0,outside the validated groups,cited in a report with a violation,1,0,2,0,3
+Bilding Propartis Hold EOOD,202740211,V_civil,2,504586.85,452194.87,8,59.69,59.69,0,24,0,outside the validated groups,no client school inspected with a firm named,0,0,0,0,8
+Bespouk Bild EOOD,202522117,V_civil,3,216893.45,218699.99,3,55.0,55.0,0,6,0,outside the validated groups,cited in a report with a violation,1,1,0,1,0
+Bobi Rn Inzhenering EOOD,202097427,V_civil,4,42110.49,42461.41,4,38.44,38.44,1,0,0,outside the validated groups,not cited although a client school was inspected,0,0,2,0,2
+Bildiliti EOOD,205719731,V_civil,5,812932.28,727702.82,15,30.02,30.02,0,7,0,outside the validated groups,cited in a report with a violation,3,0,4,1,7
+Era Bild 2020 EOOD,206175784,V_civil,6,3265533.48,3115884.76,103,22.94,22.94,0,30,0,outside the validated groups,not cited although a client school was inspected,0,0,33,1,69
+Sila stroy 77 EOOD,202510267,V_civil,7,69382.29,70518.0,3,20.89,20.89,1,0,0,outside the validated groups,not cited although a client school was inspected,0,0,2,0,1
+Vi Key Inzhenering EOOD,202741167,V_civil,8,95789.07,75865.05,3,18.7,18.7,1,0,0,outside the validated groups,not cited although a client school was inspected,0,0,3,0,0
+VNS-Remont EOOD,206419419,V_civil,9,478440.69,385903.71,11,100.0,11.02,1,0,0,"member of group G03 (Ordinary, in the core)",no client school inspected with a firm named,0,0,0,0,11
+Akvarel OOD,825297318,V_civil,10,2262374.27,2183491.47,34,8.97,8.97,0,6,0,outside the validated groups,cited in a report with a violation,2,0,1,0,31
+Global Net Konsult EOOD,108685240,V_cons,1,335814.03,309396.58,14,100.0,36.33,0,8,0,"member of group G02 (Robust, in the core)",cited in a report with a violation,1,0,0,0,13
+Skuul Konsulting EOOD,207788103,V_cons,2,206478.07,191055.27,148,100.0,29.59,47,0,0,"member of group G01 (Ordinary, in the core)",not cited although a client school was inspected,0,0,45,4,99
+El Bi Ekspert EOOD,204172914,V_cons,3,328794.85,229224.35,7,26.82,26.82,0,5,0,consultant outside the validated groups,no client school inspected with a firm named,0,0,0,0,7
+Dzhey End Dzhi Global Sarvises EOOD,203902794,V_cons,4,2441253.12,2330822.42,76,100.0,12.45,23,0,0,"member of group G05 (Robust, in the core)",cited in a report with a violation,4,0,0,0,72
+Evroklas-Konsult EOOD,202395053,V_cons,5,10885461.22,10587688.93,143,100.0,11.08,0,117,0,"member of group G01 (Ordinary, in the core)",cited in a report with a violation,29,11,4,4,95
+360 Konsult EOOD,202214115,V_cons,6,1679839.48,1683349.16,27,100.0,6.43,5,2,0,"member of group G09 (Ordinary, in the core)",cited in a report with a violation,8,1,1,0,17
+Inovatsii I Konsultirane OOD,202410459,V_cons,7,332204.21,293032.29,24,3.1,3.1,0,1,0,consultant outside the validated groups,not cited although a client school was inspected,0,0,3,0,21
+Dzhey End Dzhi Edyukeyshan EOOD,206547220,V_cons,8,2183228.94,2059034.33,63,100.0,0.0,0,0,0,"member of group G05 (Robust, in the core)",cited in a report with a violation,5,0,0,0,58
+Prosveta-Sofiya AD,131106522,V_cons,9,458274.13,387882.21,124,0.0,0.0,0,0,0,consultant outside the validated groups,cited in a report with a violation,1,1,14,4,104
+Valpers Konsult EOOD,126608480,V_cons,10,428098.57,351667.53,12,100.0,0.0,0,0,0,"member of group G07 (Robust, in the core)",not cited although a client school was inspected,0,0,1,0,11

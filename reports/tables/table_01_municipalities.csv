@@ -1,0 +1,11 @@
+municipality,oblast_ruo,total_contracted_eur_incl_vat,total_disbursed_eur_incl_vat,schools_count,municipal_schools,state_schools,affected_share_pct,tier_1_share_pct,affected_share_null_percentile,p_value_permutation,q_value_bh,validated_group_share_pct,leading_vendor_or_consultant,market_share_c1_pct,adfi_auan_count
+Stamboliyski,Plovdiv,772024.47,778457.8,7,7,0,100.0,10.1,1.0,0.000999,0.032135,100.0,Akses Saund EOOD,38.43,0
+Sredets,Burgas,586161.37,591045.58,5,5,0,100.0,2.93,1.0,0.000999,0.032135,100.0,Dzhey End Dzhi Global Sarvises EOOD,38.9,0
+Slivo pole,Ruse,248920.4,250994.72,3,3,0,100.0,14.54,1.0,0.005994,0.096404,100.0,Dzhey End Dzhi Edyukeyshan EOOD,34.8,1
+Tsenovo,Ruse,245361.2,231959.97,4,4,0,100.0,8.5,1.0,0.000999,0.032135,100.0,Dzhey End Dzhi Edyukeyshan EOOD,41.12,0
+Antonovo,Targovishte,158472.68,159793.25,3,3,0,100.0,0.0,1.0,0.003996,0.070112,100.0,Dzhey End Dzhi Global Sarvises EOOD,51.42,0
+Kirkovo,Kardzhali,752673.58,751477.59,7,7,0,99.97,9.31,1.0,0.000999,0.032135,99.97,Evroklas-Konsult EOOD,64.63,1
+Venets,Shumen,308272.33,311012.0,3,3,0,96.49,0.0,0.898,0.102897,0.43172,96.49,Viplam EOOD,58.39,0
+Beloslav,Varna,703921.88,580484.24,5,5,0,95.51,3.22,1.0,0.000999,0.032135,76.96,Tempus 2000 OOD,20.08,0
+Valchedram,Montana,494907.83,499121.74,5,5,0,94.74,22.45,0.986,0.014985,0.170124,81.43,360 Konsult EOOD,44.58,2
+Novi pazar,Shumen,1073963.57,870611.64,9,9,0,93.8,2.08,0.981,0.01998,0.210335,43.0,Kooperatsiya Panda,32.93,1

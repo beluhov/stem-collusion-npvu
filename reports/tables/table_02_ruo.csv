@@ -1,0 +1,11 @@
+ruo_oblast,total_contracted_eur_incl_vat,total_disbursed_eur_incl_vat,beneficiary_schools_count,affected_share_pct,tier_1_share_pct,affected_share_null_percentile,p_value_permutation,q_value_bh,validated_group_share_pct,validated_group_null_percentile,leading_coordinated_groups_or_consultants,adfi_directorate
+Pazardzhik,12241484.04,11422616.68,110,69.79,7.93,1.0,0.000999,0.013986,50.25,1.0,group G01 (Ordinary) 39.2%; consultant Evroklas-Konsult EOOD 14.5%,Did4-Pz
+Shumen,7693934.47,6849769.2,65,61.08,6.26,0.999,0.001998,0.013986,34.98,1.0,group G06 (Ordinary) 23.1%; consultant Dzhey End Dzhi Edyukeyshan EOOD 0.2%,Did7-Shn
+Haskovo,10020023.59,9361879.81,79,60.4,8.91,0.999,0.001998,0.013986,32.21,0.999,group G01 (Ordinary) 24.1%; consultant Evroklas-Konsult EOOD 14.6%,Did5-Hs
+Kardzhali,6424542.61,6034151.66,67,58.9,10.18,0.999,0.001998,0.013986,30.14,0.997,group G01 (Ordinary) 17.4%; consultant Evroklas-Konsult EOOD 11.3%,Did6-Kzh
+Sliven,8405990.14,7607284.86,69,53.79,7.93,0.975,0.025974,0.090909,35.77,1.0,group G05 (Robust) 17.5%; consultant Evroklas-Konsult EOOD 11.6%,Did6-Sl
+Stara Zagora,14888051.61,13492717.64,118,53.53,8.59,0.994,0.006993,0.039161,10.5,0.012,group G01 (Ordinary) 9.1%; consultant Evroklas-Konsult EOOD 6.3%,Did5-Sz
+Montana,6307136.65,6063933.07,59,51.69,14.5,0.908,0.092907,0.289044,27.76,0.98,group G09 (Ordinary) 23.9%; consultant 360 Konsult EOOD 14.3%,Did3-Mn
+Burgas,18133871.77,16481398.42,133,51.15,4.38,0.983,0.017982,0.071928,27.42,0.998,group G05 (Robust) 13.6%; consultant Dzhey End Dzhi Global Sarvises EOOD 3.4%,Did6-Bs
+Plovdiv,25987149.22,23758595.36,179,50.17,6.13,0.985,0.015984,0.071928,31.45,1.0,group G01 (Ordinary) 23.6%; consultant Evroklas-Konsult EOOD 14.3%,Did5-Pd
+Ruse,8604233.34,7623425.47,64,47.49,13.0,0.784,0.216783,0.606993,26.94,0.976,group G03 (Ordinary) 19.2%; consultant Dzhey End Dzhi Edyukeyshan EOOD 2.2%,Did7-Rs
