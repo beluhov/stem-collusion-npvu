@@ -72,15 +72,15 @@ jupyter nbconvert --to notebook --execute --inplace Fiscal_Exposure_Integrity_Ri
 
 ## Repository
 
-```
-Fiscal_Exposure_Integrity_Risk_School_STEM_Procurement.ipynb   the study, executed
-requirements.txt                                               minimum versions of the packages
-data/                                                          working tables built from the public sources (no personal data)
-data/derived/                                                  results: contract table, validated links and groups, flags, Tables 1-4
-img/                                                           figures of the study, written by the notebook
-SELF_ASSESSMENT.md                                             self-assessment against the six criteria of the guidelines
-LICENSE
-```
+| File / Directory | Description |
+| :--- | :--- |
+| `Fiscal_Exposure_Integrity_Risk_School_STEM_Procurement.ipynb` | The study, executed |
+| `requirements.txt` | Minimum versions of the packages |
+| `data/` | Working tables built from the public sources (no personal data) |
+| `data/derived/` | Results: contract table, validated links and groups, flags, Tables 1–4 |
+| `img/` | Figures of the study, written by the notebook |
+| `SELF_ASSESSMENT.md` | Self-assessment against the six criteria of the guidelines |
+| `LICENSE` | MIT open-source license |
 
 ## Sources
 
