@@ -6,6 +6,7 @@ matplotlib>=3.11.2
 seaborn>=0.13.2
 statsmodels>=0.15.0
 xmlschema>=4.3.2
+packaging>=24.0
 jupyter>=1.1.1
 nbconvert>=7.17.2
 nbformat>=5.11.1
