@@ -1,6 +1,6 @@
 # Fiscal Exposure and Integrity Risk in School Public Procurement
 
-*Forensic econometric and network analysis of the Bulgarian School STEM Programme (BG-RRP-1.015) under the National Recovery and Resilience Plan.*
+*Forensic econometric and network analysis of the Bulgarian School STEM Programme (BG-RRP-1.015) under the National Recovery and Resilience Plan in Bulgaria*
 
 Under procedure BG-RRP-1.015 "School STEM Environment", 2,222 schools signed 11,128 contracts worth 288.57 million EUR including VAT with 1,754 suppliers. The study screens the whole programme for two risks that the literature links to decentralised buying under direct-award limits: values placed just below the limits and a market shared among a few coordinated suppliers. It validates the indicators against 560 inspection reports of the State Financial Inspection Agency (ADFI). The study is one Jupyter notebook in English, `Fiscal_Exposure_Integrity_Risk_School_STEM_Procurement.ipynb`. It contains the mathematics, the algorithms implemented from scratch, ten robustness experiments and the data they use.
 
@@ -88,7 +88,7 @@ jupyter nbconvert --to notebook --execute --inplace Fiscal_Exposure_Integrity_Ri
 - ADFI inspection reports: https://www.adfi.minfin.bg/bg/34
 - Register of schools of the Ministry of Education and Science
 
-The literature, the laws and the regulations are listed with full references at the end of the notebook.
+*The literature, the laws and the regulations are listed with full references at the end of the notebook.*
 
 ## Disclaimer
 
